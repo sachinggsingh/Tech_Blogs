@@ -24,10 +24,10 @@ Ensure you have the following installed:
 - npm or Yarn
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: 
    ```bash
-   git clone 
-   cd your-repo
+   git clone https://github.com/sachinggsingh/Tech_Blogs
+   cd Tech_Blogs
    ```
 2. Install dependencies:
    ```bash
